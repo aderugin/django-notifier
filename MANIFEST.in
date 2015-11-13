@@ -1,0 +1,3 @@
+recursive-include django_notifier/static *
+recursive-include django_notifier/locale *
+include LICENSE
